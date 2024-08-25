@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MFHabibie
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#/C++ and Unity/Unreal Engine
+- 🌱 I’m having experience on C#/C++ and Unity/Unreal Engine
 - 💞️ I’m looking to collaborate on Game Studio
 - 📫 How to reach me is contact me through Skype, LinkedIn
 
