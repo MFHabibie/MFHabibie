@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m having experience on C#/C++ and Unity/Unreal Engine
 - 💞️ I’m looking to collaborate on Game Studio
-- 📫 How to reach me is contact me through Skype, LinkedIn
+- 📫 How to reach me is contact me through Email, LinkedIn
 
 <!---
 MFHabibie/MFHabibie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
